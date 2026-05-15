@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot 2026-05-15 at 23-01-17 🏦 Banc..." alt="Dashboard Banco Seguro" width="700px">
+  <img src="Screenshot 2026-05-15 at 23-01-17 🏦 Banco Seguro - Monitor.png" alt="Dashboard Banco Seguro" width="700px">
 </p>
 
 ---
